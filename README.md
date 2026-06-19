@@ -12,7 +12,6 @@
     12|
     13|**AI-разработчик: чат-боты, RAG-системы, AI-агенты, контент-генерация. РФ-стек first-class.**
     14|
-    15|[![Telegram](https://img.shields.io/badge/Telegram-@umowork__lab-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/umowork_lab)
     16|[![Kwork](https://img.shields.io/badge/Kwork-umowork-00C875?style=flat-square)](https://kwork.ru/user/umowork)
     17|[![FL.ru](https://img.shields.io/badge/FL.ru-umowork-FF6B00?style=flat-square)](https://fl.ru/users/umowork)
     18|
