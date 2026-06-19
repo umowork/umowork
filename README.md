@@ -4,8 +4,6 @@
 
 **AI developer: chatbots, RAG systems, AI agents, RPA. Python-first.**
 
-[![Kwork](https://img.shields.io/badge/Kwork-umowork-00C875?style=flat-square)](https://kwork.ru/user/umowork)
-[![FL.ru](https://img.shields.io/badge/FL.ru-umowork-FF6B00?style=flat-square)](https://fl.ru/users/umowork)
 
 </div>
 
@@ -62,12 +60,6 @@ DevOps      Docker · GitHub Actions · Fly.io · Vercel · Yandex Cloud · Supa
 
 | Service | From | Order at |
 |---|---|---|
-| AI chat widget for website (RAG) | $150 | [Kwork](https://kwork.ru/user/umowork) / [FL](https://fl.ru/users/umowork) |
-| Business AI chatbot with Bitrix24/AmoCRM | $200 | [FL.ru](https://fl.ru/users/umowork) |
-| AI assistant for WB/Ozon sellers | $150 | [Kwork](https://kwork.ru/user/umowork) |
-| RPA + AI automation (exports, forms) | $200 | [FL.ru](https://fl.ru/users/umowork) |
-| Telegram bot image+video with payments | $30 | [Kwork](https://kwork.ru/user/umowork) |
-| Telegram Mini App with AI + payments | $300 | [FL.ru](https://fl.ru/users/umowork) |
 | Production RAG + Bitrix24/1C (enterprise) | $500 | [Habr Freelance](https://freelance.habr.com/) |
 | AI lead qualification agent (LangGraph + Bitrix24) | $500 | [Habr Freelance](https://freelance.habr.com/) |
 
@@ -85,8 +77,6 @@ DevOps      Docker · GitHub Actions · Fly.io · Vercel · Yandex Cloud · Supa
 ## 📫 Contact
 
 - Telegram: [@umowork_lab](https://t.me/umowork_lab) — fastest channel
-- Kwork: [kwork.ru/user/umowork](https://kwork.ru/user/umowork)
-- FL.ru: [fl.ru/users/umowork](https://fl.ru/users/umowork)
 - Habr Freelance: [freelance.habr.com/freelancers/umowork](https://freelance.habr.com/freelancers/umowork)
 
 ---
