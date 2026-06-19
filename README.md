@@ -8,11 +8,11 @@
      8|
      9|<div align="center">
     10|
-    11|# 👋 Привет, я **umawork**
+    11|# 👋 Привет, я **umowork**
     12|
     13|**AI-разработчик: чат-боты, RAG-системы, AI-агенты, контент-генерация. РФ-стек first-class.**
     14|
-    15|[![Telegram](https://img.shields.io/badge/Telegram-@umawork__lab-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/umawork_lab)
+    15|[![Telegram](https://img.shields.io/badge/Telegram-@umowork__lab-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/umowork_lab)
     16|[![Kwork](https://img.shields.io/badge/Kwork-umowork-00C875?style=flat-square)](https://kwork.ru/user/umowork)
     17|[![FL.ru](https://img.shields.io/badge/FL.ru-umowork-FF6B00?style=flat-square)](https://fl.ru/users/umowork)
     18|
@@ -80,7 +80,7 @@
     80|| Production RAG + Битрикс24/1С (enterprise) | 50 000 ₽ | [Habr Freelance](https://freelance.habr.com/) |
     81|| AI-агент квалификации заявок (LangGraph + Битрикс24) | 50 000 ₽ | [Habr Freelance](https://freelance.habr.com/) |
     82|
-    83|**Прямой контакт:** [@umawork_lab](https://t.me/umawork_lab) — обсуждаем задачу 15 минут, потом фиксируем стоимость и план.
+    83|**Прямой контакт:** [@umowork_lab](https://t.me/umowork_lab) — обсуждаем задачу 15 минут, потом фиксируем стоимость и план.
     84|
     85|## 🤝 Принципы работы
     86|
@@ -93,7 +93,7 @@
     93|
     94|## 📫 Связаться
     95|
-    96|- Telegram: [@umawork_lab](https://t.me/umawork_lab) — самый быстрый канал
+    96|- Telegram: [@umowork_lab](https://t.me/umowork_lab) — самый быстрый канал
     97|- Kwork: [kwork.ru/user/umowork](https://kwork.ru/user/umowork)
     98|- FL.ru: [fl.ru/users/umowork](https://fl.ru/users/umowork)
     99|- Habr Freelance: [freelance.habr.com/freelancers/umowork](https://freelance.habr.com/freelancers/umowork)
